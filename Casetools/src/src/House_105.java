@@ -12,5 +12,10 @@ public class House_105 {
 	{
 		return Owner;
 	}
+	
+	String getColur()
+	{
+		return color;
+	}
 
 }
